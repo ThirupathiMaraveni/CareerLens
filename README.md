@@ -1,4 +1,4 @@
-# JobMatch AI — Resume & Internship Skill Matcher
+# CareerLens — Resume & Internship Skill Matcher
 
 A beginner-friendly NLP portfolio project that compares resume text with an internship/job description. It estimates text similarity, identifies skills appearing in both texts, and highlights role skills not detected in the resume.
 
