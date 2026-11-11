@@ -2,10 +2,10 @@ import re
 import streamlit as st
 from matcher import analyze_match, extract_text_from_pdf
 
-st.set_page_config(page_title="JobMatch AI", page_icon="🎯", layout="wide")
+st.set_page_config(page_title="CareerLens - Your Career Match Assistant", page_icon="🎯", layout="wide")
 
-st.title("🎯 JobMatch AI")
-st.caption("A simple NLP tool that compares your skills with an internship or job description.")
+st.title("🎯 CareerLens")
+st.caption("Your AI-Powered Career Match Assistant")
 
 with st.sidebar:
     st.header("How it works")
